@@ -1,4 +1,4 @@
-@"
+
 # 🛣️ Lane Lines Detection Using Python & OpenCV
 
 This project implements a classic computer vision pipeline to detect lane lines in road images and driving videos. It uses color filtering, edge detection, region masking, and Hough Transform to identify lane markers and overlay them in real time.
@@ -22,27 +22,9 @@ This project implements a classic computer vision pipeline to detect lane lines 
 
 
 
-### 🖼️ For Image Detection
-
-\`\`\`bash
-python lane_detection.py
-\`\`\`
-
-Make sure to update the image path in \`lane_detection.py\` to a valid file inside \`test_images\`.
-
 ### 🎥 For Video Detection
 
 Replace the image section with video processing code (already included in the script). Use a valid \`.mp4\` path from \`test_videos\`.
-
-## 🧠 Future Enhancements
-
-- Curved lane detection using polynomial fitting
-- Temporal smoothing across frames
-- Deep learning-based segmentation (e.g., U-Net, SCNN)
-
-## 📸 Demo
-
-Add screenshots or a short GIF here to showcase results.
 
 ---
 
