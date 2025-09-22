@@ -14,14 +14,14 @@ This project implements a classic computer vision pipeline to detect lane lines 
 
 ## 📁 Project Structure
 
-\\\`
+
 Lane-lines-detection-main/
 ├── lane_detection.py
 ├── test_images/
 ├── test_videos/
 ├── output_videos/ (optional)
 └── README.md
-\\\`
+
 
 ## ⚙ Requirements
 
@@ -30,6 +30,5 @@ Lane-lines-detection-main/
 - NumPy (\pip install numpy\)
 
 
-
 Feel free to fork, modify, and build upon this project. Contributions are welcome!
-"@ > README.md
+
